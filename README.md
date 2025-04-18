@@ -28,3 +28,5 @@ Development plan and current status
 Completed: basic shooting logic, scoring system.
 Future plans: add multiple levels and online battle mode.
 
+Youtube URL
+https://youtu.be/rmLNoGi6PqU
