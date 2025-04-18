@@ -24,3 +24,7 @@ UI and Level Design        2025.1.22-2.5     Game Interface, Scoring Panel
 Testing and Optimization   2025.2.6-3.1      Fix Collision BUG 
 Documents and Videos       2025.3.2-4.20     README.md, Demo Video 
 
+Development plan and current status
+Completed: basic shooting logic, scoring system.
+Future plans: add multiple levels and online battle mode.
+
