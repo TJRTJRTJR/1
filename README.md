@@ -6,6 +6,7 @@ The result is this 3D game that has some humble graphics to make the soccer fiel
 
 
 If the ball finds its way inside the goal post , a crowd cheers the player on and the level increments by 1. The ball is then reinitialized randomly at a certain place away from the goal post on the field and the player will have to score another goal. Every three levels that the player passes , the speed that the arrow moves left to right in increases in an attempt to make it more difficult for the player to shoot the ball at a good angle to score a goal. 
+![Uploading 屏幕截图 2025-04-18 180641.png…]()
 
 
 The buttons M , L , & R can be used to switch between the main camera  and the left and right side cameras if the player wished to get a better view of the field relative to where the ball is. 
