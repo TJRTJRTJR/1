@@ -15,14 +15,13 @@ Target Market: Casual game platform (such as Steam mini games, web-based H5 game
 
 The buttons M , L , & R can be used to switch between the main camera  and the left and right side cameras if the player wished to get a better view of the field relative to where the ball is. 
 
-Development Schedule
-Phases                     Time Scope        Deliverables 
+Development Schedule 
 
-Requirements Analysis      2025.1.1-1.7      Game Prototype Sketch 
-Core Physics Engine        2025.1.8-1.21     Ball Movement and Collision Logic 
-UI and Level Design        2025.1.22-2.5     Game Interface, Scoring Panel 
-Testing and Optimization   2025.2.6-3.1      Fix Collision BUG 
-Documents and Videos       2025.3.2-4.20     README.md, Demo Video 
+Phases Requirements Analysis      Time Scope 2025.1.1-1.7      Deliverables Game Prototype Sketch 
+Phases Core Physics Engine        Time Scope 2025.1.8-1.21     Deliverables Ball Movement and Collision Logic 
+Phases UI and Level Design        Time Scope 2025.1.22-2.5     Deliverables Game Interface, Scoring Panel 
+Phases Testing and Optimization   Time Scope 2025.2.6-3.1      Deliverables Fix Collision BUG 
+Phases Documents and Videos       Time Scope 2025.3.2-4.20     Deliverables README.md, Demo Video 
 
 P2211342  Gary	  Physics engine and core logic	          33.3
 P2321361	Oliver	UI design and level implementation	    33.3
