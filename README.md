@@ -18,13 +18,20 @@ The buttons M , L , & R can be used to switch between the main camera  and the l
 Development Schedule 
 
 Phases Requirements Analysis      Time Scope 2025.1.1-1.7      Deliverables Game Prototype Sketch 
+
 Phases Core Physics Engine        Time Scope 2025.1.8-1.21     Deliverables Ball Movement and Collision Logic 
+
 Phases UI and Level Design        Time Scope 2025.1.22-2.5     Deliverables Game Interface, Scoring Panel 
+
 Phases Testing and Optimization   Time Scope 2025.2.6-3.1      Deliverables Fix Collision BUG 
+
 Phases Documents and Videos       Time Scope 2025.3.2-4.20     Deliverables README.md, Demo Video 
 
+Division of labor among members
 P2211342  Gary	  Physics engine and core logic	          33.3
+
 P2321361	Oliver	UI design and level implementation	    33.3
+
 p2321186	Tomson	Testing & Documentation	                33.3
 
 Development plan and current status
